@@ -1,0 +1,28 @@
+# Welcome everyone to our code for this project, best luck to us!!
+
+
+# this function sets up the ode for exponential growth
+def lotka_volterra(t, y, eta):
+    """Compute right hand side of Lotka Volterra Predator-Prey model based 
+    on rabbit and wolf populations at given time.
+    
+    Parameters:
+        y ((2, ) ndarray): A vector representing rabbit and wolf populations 
+            at time t.
+        t (float): Current time.
+        eta (float): The model parameter.
+        
+    Returns:
+        (tuple): A tuple corresponding to right hand side of the Lotka 
+            Volterra Predator-Prey model.
+    """
+    dUdt = y[0] * (1 - y[1])
+    dVdt = eta * y[1] * (y[0] - 1)
+
+    return [dUdt, dVdt]
+
+
+# so this is just the function i wrote for our predator-prey lab, but I'm realizing that we need
+# to nondimensionalize our equations first, but in order to do that we need to meet and discuss
+# the questions and assumptions so we know what variables are in the equations and then we can 
+# nondimensionalize!
