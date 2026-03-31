@@ -92,3 +92,10 @@ The next steps are:
 ## Our Code
 This is what we have so far:
 ![Code snippet from LaTeX file](image.png)
+
+## Articles
+These articles are pretty much providing all of our reference data.
+* https://link.springer.com/article/10.1007/s10980-022-01562-1
+* https://academic.oup.com/jee/article/118/1/282/7888869
+* https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2022.1006201/full
+* https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.70269
