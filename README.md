@@ -88,6 +88,7 @@ The next steps are:
 * Refine equations
 * Make presentation on findings
 * If we have time, experiment with different bee populations (based on foraging bee amount)
+* Brendan wants to know what percentage of flowers are being pollenated. We can track how many are open and how many bees are there, but we don't know if all of them are being pollenated. We should probably figure that out then I want to see if we can wiggle some variables around to get it higher. That is, what percent are being pollenated? And how can we increase it?
 
 ## Our Code
 This is what we have so far:
