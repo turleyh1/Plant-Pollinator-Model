@@ -99,8 +99,6 @@ This is what we have so far:
 These articles are pretty much providing all of our reference data (we hope at least)
 * https://link.springer.com/article/10.1007/s10980-022-01562-1 (Heidi)
 * https://academic.oup.com/jee/article/118/1/282/7888869 (Austin)
-
-Findings:
     * Crop has potential to achieve 100% fruit set but is highly dependent on the quality of pollination among other factorsgit 
     * "This indicates that a single floral visit by a honey bee could lead to sufficient pollen transfer to completely pollinate the flower, although other studies report 5–15 honey bee visits are required to optimize stigmatic pollen deposition or maximize blueberry fruit weight"
     * Hive strength or population size of the colony is another important variable rarely accounted for in pollination studies, with stronger hives associated with higher blueberry yields (Grant et al. 2021). 
