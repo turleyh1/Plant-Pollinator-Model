@@ -77,7 +77,7 @@ We are trying to model the network dynamics between blueberry pollen and honey b
 
 All together we get the master equations:
 
-$$\frac{dF}{dt} = r(t) - \mu_F F - \sigma B F$$
+$$\frac{dF}{dt} = r(t) - (\mu_F (1 - B) + \sigma B) F$$
 
 $$\frac{dB}{dt} = \alpha \frac{F}{F+h} - \mu_B B$$
 
