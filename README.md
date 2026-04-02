@@ -88,6 +88,7 @@ The next steps are:
 * Refine equations
 * Make presentation on findings
 * If we have time, experiment with different bee populations (based on foraging bee amount)
+    * "Honey bees, Apis mellifera L. (Hymenoptera: Apidae), are the most common pollinator visiting commercial blueberry fields (Eeraerts et al. 2023a), but they are not capable of buzz pollination and only incidentally pollinate blueberry by brushing against anthers while foraging primarily for nectar (Dogterom and Winston 1999, Hoffman et al. 2018). Bumblebees Bombus spp. (Hymenoptera: Apidae) and some solitary bee species can buzz pollinate and are thus comparatively more efficient pollinators of blueberry on a single-visit basis (Rogers et al. 2013, Cardinal et al. 2018, Eeraerts et al. 2023a). Yet, native populations are generally too low in abundance for commercial growers to rely on them solely for pollination services in modern, large-scale blueberry fields"
 * Brendan wants to know what percentage of flowers are being pollenated. We can track how many are open and how many bees are there, but we don't know if all of them are being pollenated. We should probably figure that out then I want to see if we can wiggle some variables around to get it higher. That is, what percent are being pollenated? And how can we increase it?
 
 ## Our Code
@@ -98,5 +99,12 @@ This is what we have so far:
 These articles are pretty much providing all of our reference data (we hope at least)
 * https://link.springer.com/article/10.1007/s10980-022-01562-1 (Heidi)
 * https://academic.oup.com/jee/article/118/1/282/7888869 (Austin)
+
+Findings:
+    * Crop has potential to achieve 100% fruit set but is highly dependent on the quality of pollination among other factorsgit 
+    * "This indicates that a single floral visit by a honey bee could lead to sufficient pollen transfer to completely pollinate the flower, although other studies report 5–15 honey bee visits are required to optimize stigmatic pollen deposition or maximize blueberry fruit weight"
+    * Hive strength or population size of the colony is another important variable rarely accounted for in pollination studies, with stronger hives associated with higher blueberry yields (Grant et al. 2021). 
+
+
 * https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2022.1006201/full (Brendan)
 * https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.70269 (Kerby)
