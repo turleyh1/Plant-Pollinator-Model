@@ -76,7 +76,9 @@ We are trying to model the network dynamics between blueberry pollen and honey b
         $$\frac{ke^{-k(x-10)}}{\left( 1+e^{-k(x-10)} \right)^2}$$
 
 All together we get the master equations:
+
 $$\frac{dF}{dt} = r(t) - \mu_F F - \sigma B F$$
+
 $$\frac{dB}{dt} = \alpha \frac{F}{F+h} - \mu_B B$$
 
 We're working on slapping together some code that we'll put in a shared folder. I think Austin's close to getting that.
