@@ -68,7 +68,7 @@ We are trying to model the network dynamics between blueberry pollen and honey b
     * $F(t) =$ proportion of "open" blueberry blossoms (flowers)
     * $B(t) =$ number (proportion?) of foraging honey bees
     * $h =$ half-saturation constant (probably 0.5)
-    * $\alpha =$ "attraction rate" (how much the bees will forage based on how many flowers are out). Default value will be 1
+    * $\alpha =$ "attraction rate" (how much the bees will forage based on how many flowers are out). Value found to be 4 to 8, so we'll say 6 (Stephen).
     * $\mu_F =$ closing rate of flowers (around 0.25)
     * $\mu_B =$ worker bee departure rate. Default at 1
     * $\sigma =$ the pollination rate, that is, how quickly a flower will close proportional to the number of open flowers and the number of foraging bees. Defaulted to 1.
@@ -103,7 +103,9 @@ These articles are pretty much providing all of our reference data (we hope at l
 * https://academic.oup.com/jee/article/118/1/282/7888869 (Austin)
     * Crop has potential to achieve 100% fruit set but is highly dependent on the quality of pollination among other factorsgit 
     * "This indicates that a single floral visit by a honey bee could lead to sufficient pollen transfer to completely pollinate the flower, although other studies report 5–15 honey bee visits are required to optimize stigmatic pollen deposition or maximize blueberry fruit weight"
-    * Hive strength or population size of the colony is another important variable rarely accounted for in pollination studies, with stronger hives associated with higher blueberry yields (Grant et al. 2021). 
+    * Hive strength or population size of the colony is another important variable rarely accounted for in pollination studies, with stronger hives associated with higher blueberry yields (Grant et al. 2021).
+ * MLA (9th Edition)
+Stephen, W. P., S. Rao, and L. White. "Abundance, Diversity and Foraging Contribution of Bumble Bees to Blueberry Production in Western Oregon." Acta Horticulturae, no. 810, 2009, pp. 557-562. https://doi.org/10.17660/ActaHortic.2009.810.73.
 
 
 * https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2022.1006201/full (Brendan)
