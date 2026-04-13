@@ -83,6 +83,8 @@ $$\frac{dB}{dt} = \alpha \frac{F}{F+h} - \mu_B B$$
 
 We're working on slapping together some code that we'll put in a shared folder. I think Austin's close to getting that.
 
+A single honeybee visit between 1500 and 5000 flowers per day. The exact number can vary depending on the abundance of nectar and the distance from the hive. A bee usually visits 50 to 100 flowers during a single foraging flight. They can make up to 15 to 30 trips per day depending on the weather and daylight.
+
 ## Action Plan
 The next steps are:
 * Get the code working and distributed
