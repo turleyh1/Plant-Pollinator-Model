@@ -70,7 +70,7 @@ We are trying to model the network dynamics between blueberry pollen and honey b
     * $h =$ half-saturation constant (probably 0.5)
     * $\alpha =$ "attraction rate" (how much the bees will forage based on how many flowers are out). Value found to be 4 to 8, so we'll say 6 (Stephen).
     * $\mu_F =$ closing rate of flowers (around 0.25)
-    * $\mu_B =$ worker bee departure rate. Default at 1
+    * $\mu_B =$ worker bee departure rate. Default at 1 (actually 0.036)
     * $\sigma =$ the pollination rate, that is, how quickly a flower will close proportional to the number of open flowers and the number of foraging bees. Defaulted to 1.
     * $r(t) =$ the derivative of the logistic equation, which we found to be:
         $$\frac{ke^{-k(x-10)}}{\left( 1+e^{-k(x-10)} \right)^2}$$
